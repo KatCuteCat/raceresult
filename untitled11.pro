@@ -28,7 +28,8 @@ HEADERS += \
     connection.h \
     tables.h
 
-FORMS += mainwindow.ui \
+FORMS += \
+    mainwindow.ui \
     tables.ui
 
 RESOURCES += \
