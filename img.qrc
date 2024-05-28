@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>icons8-sports-mode-96.png</file>
+    </qresource>
+</RCC>
